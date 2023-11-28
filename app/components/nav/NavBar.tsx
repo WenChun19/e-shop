@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "./Container";
+import Container from "../Container";
 import Link from "next/link";
 import { Redressed } from "next/font/google";
 

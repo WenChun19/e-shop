@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../nav/Container";
+import Container from "../Container";
 import Link from "next/link";
 import FooterList from "./FooterList";
 import { MdFacebook } from "react-icons/md";
